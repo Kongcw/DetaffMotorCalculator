@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DetaffMotorCalculator</string>
+    <string name="coverage">Coverage</string>
+    <string name="email">Email</string>
+    <string name="vehicle_reg_no">Vehicle Reg No</string>
+    <string name="postcode">Postcode</string>
+    <string name="id_no">IC No</string>
+    <string name="id_type">ID Type</string>
+    <string name="basic_contribution">Basic Contri</string>
+    <string name="gross_contribution">Gross Contri</string>
+    <string name="contri_after_rebate">After Rebate</string>
+    <string name="gst">After GST</string>
+    <string name="total_contribution">Net Premium</string>
+
+    <string-array name="coveragesoption">
+        <item>Comprehensive</item>
+        <item>Third party and Theft</item>
+        <item>Third Party</item>
+    </string-array>
+</resources>
